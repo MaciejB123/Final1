@@ -37,13 +37,6 @@
   </dependency>
 	
 	</dependencies>
-	
-	<distributionManagement>
-    <repository>
-        <id>package1</id>
-        <url>file:///C:/Users/Maciek/workspace1/part1/target</url>
-    </repository>
-</distributionManagement>
 
 <build>
  <plugins>
