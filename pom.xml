@@ -31,10 +31,10 @@
 	</dependencies>
 	
 	<distributionManagement>
-  <repository>
-    <id>Final1</id>
-        <url>file:///C:/Users/Maciek/.m2/repository/com/github/MaciejB123/Final1</url>
-  </repository>
+    <repository>
+        <id>mvn-repo</id>
+        <url>file:///C:/Users/Maciek/Dropbox</url>
+    </repository>
 </distributionManagement>
 
 <build>
