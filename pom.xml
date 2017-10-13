@@ -10,14 +10,6 @@
   <name>part_1</name>
   <url>http://maven.apache.org</url>
 
-<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-		
-		</repositories>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
@@ -37,6 +29,13 @@
   </dependency>
 	
 	</dependencies>
+	
+	<distributionManagement>
+  <repository>
+    <id>Final1</id>
+        <url>file:///C:/Users/Maciek/.m2/repository/com/github/MaciejB123/Final1</url>
+  </repository>
+</distributionManagement>
 
 <build>
  <plugins>
